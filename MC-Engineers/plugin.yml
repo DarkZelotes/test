@@ -1,0 +1,14 @@
+name: MC-Engineers
+author: DarkZTV
+version: 1.0
+main: de.darkztv.engineers.Main
+
+commands:
+  wartung:
+    description:
+  status:
+    description:
+  pvp:
+    description:
+
+    
